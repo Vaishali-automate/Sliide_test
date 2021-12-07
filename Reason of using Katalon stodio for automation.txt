@@ -1,0 +1,6 @@
+Hello,
+I have used the automation tool as Katalon because, 
+1. Katalon provides simplified framework with the utilization of selenium and appium, which can be used for web UIs and android/iOS mobile apps with frontend and backend.
+2. Easy to use
+3. People with limited programming knowledge can use this tool.
+4. Inbuilt reporting tool
